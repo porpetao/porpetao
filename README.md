@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://www.linkedin.com/in/pablo-alves-dias"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+
+
+
 ![Pablo QA Junior](link_para_a_sua_imagem.gif)
 
 # Olá, eu sou o Pablo!
